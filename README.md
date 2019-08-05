@@ -31,4 +31,12 @@ Adequei o app para rodar em iPad e iPhone, essa adaptação foi feita via variat
 
 # Prints do projeto rodando:
 
-![alt text](https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPhone1.png)
+iPhone:
+
+<img src="https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPhone1.png" width="400">
+<img src="https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPhone2.png" width="400">
+
+iPad:
+
+<img src="https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPad1.png" width="400">
+<img src="https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPad2.png" width="400">
