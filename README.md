@@ -31,4 +31,4 @@ Adequei o app para rodar em iPad e iPhone, essa adaptação foi feita via variat
 
 # Prints do projeto rodando:
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/viniciusfragelli/booksstore-ios/master/ScreenProject/iPhone1.png)
